@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "28a3419d731ce455",
+    "type": "split",
+    "children": [
+      {
+        "id": "3addce8509e853b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e3dd64b68b6f10",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e59e6dd9bf1e06d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5158391f25d5c169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eb1c34b9d16238f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7274b144593eaea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a69c993eaf956806",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "119ed23f4af55800",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa48fb454fee8c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "143bab9abcd20cf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cbad34d4a09f79e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "88c244c4259410fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "03c3f8f9064995a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false
+    }
+  },
+  "active": "8eb1c34b9d16238f",
+  "lastOpenFiles": [
+    "Udemy/Java POO/Índice Java POO.md",
+    "Udemy/Java POO/Classes, objetos e métodos em Java.md",
+    "Udemy/Java POO/Estruturas de controle de fluxo (if, switch, for, while).md",
+    "Udemy/Java POO/Encapsulamento.md",
+    "Descomplica/JavaScript/Atividade 02 (JavaScript).md",
+    "Udemy/Java POO/Tipos de dados Primitivos e Variáveis.md",
+    "Descomplica/JavaScript/Declaração de Variáveis em javaScript.md",
+    "Descomplica/JavaScript/Índice JavaScript.md",
+    "Udemy/Java POO/Historia do Java.md",
+    "Udemy/Java POO/Herança.md",
+    "Udemy/Java POO/Pilares do POO.md",
+    "Udemy/Java POO/Abstração.md",
+    "Udemy/Java POO/Operadores e Expressões.md",
+    "Udemy/Java POO/Polimorfismo.md",
+    "Descomplica/JavaScript/Atividade 01 (JavaScript).md",
+    "Descomplica/UI-UX/Atividade 01 (UI-UX).md",
+    "Descomplica/JavaScript/Comandos Básicos em JavaScript.md",
+    "Descomplica/JavaScript/Criando e Manipulando Arrays em JavaScript.md",
+    "Descomplica/JavaScript/JavaScript.md",
+    "Descomplica/JavaScript/Métodos de Array.md",
+    "Descomplica/Trilha JavaScript.canvas",
+    "abstração.md",
+    "Udemy/Java DO ZERO 2023 Programação Orientada a Objetos +Projetos.md",
+    "Descomplica",
+    "Udemy",
+    "Udemy/Java POO",
+    "Descomplica/HTML, CSS e Boostrap/Bootstrap.md",
+    "Descomplica/HTML, CSS e Boostrap/HTML.md",
+    "Descomplica/HTML, CSS e Boostrap/CSS.md",
+    "Descomplica/HTML, CSS e Boostrap/Formulários.md",
+    "Sem título.canvas",
+    "Pasted image 20230810012714.png",
+    "Descomplica/HTML, CSS e Boostrap",
+    "Descomplica/JavaScript",
+    "Descomplica/UI-UX"
+  ]
+}

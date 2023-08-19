@@ -1,0 +1,7 @@
+Java é uma linguagem de programação orientada a objetos criada na década de 1990 por um grupo liderado por James Gosling na empresa Sun Microsystems, atualmente pertencente à Oracle Corporation. A ideia era desenvolver uma linguagem portátil, executável em várias plataformas sem compilação direta. Isso foi possível graças à máquina virtual Java (JVM), que interpreta o código-fonte em bytecodes.
+
+A primeira versão do Java, lançada em 1995, já incorporava conceitos avançados de programação orientada a objetos, como herança, polimorfismo e interface. A linguagem ganhou popularidade entre desenvolvedores de software, sendo usada para criar aplicações de desktop, web e mobile.
+
+Ao longo do tempo, o Java evoluiu, recebendo recursos como a biblioteca padrão Java Class Library, que inclui classes e métodos úteis para desenvolvimento. A linguagem também suporta programação concorrente e distribuída, permitindo a criação de sistemas complexos e escaláveis.
+
+Hoje, o Java é uma das linguagens mais utilizadas no mundo, com uma vasta base de desenvolvedores e ampla comunidade de suporte e documentação. É empregado em aplicações críticas e sistemas de grande porte em empresas e governos globalmente.
