@@ -2,7 +2,7 @@
 Resumos sobre estudos de programação
 
 ## Obsidian Vault
-- [Instale Obsidian](https://obsidian.md/download)
+- Para melhor visualização do conteudo [Instale Obsidian](https://obsidian.md/download)
 - Clone o repositório
 - No Obsidian, abra o `Vault - Estudos Programação`
 
