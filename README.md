@@ -19,28 +19,30 @@ Isso garantirá que você tenha as versões mais recentes dos resumos e anotaç�
 ## Regras Básicas para Contribuição
 Sinta-se à vontade para contribuir, mas por favor, siga essas regrinhas para manter a qualidade dos resumos e ajudar no estudo:
 
-1. **Padrão de Formatação:** Mantenha uma formatação consistente em todos os resumos para facilitar a leitura e a busca de informações.
+0. **Crie uma nova Branch**
+   
+2. **Padrão de Formatação:** Mantenha uma formatação consistente em todos os resumos para facilitar a leitura e a busca de informações.
 
-2. **Precisão:** Certifique-se de que as informações estão corretas e bem compreensíveis. Evite erros de ortografia e gramática.
+3. **Precisão:** Certifique-se de que as informações estão corretas e bem compreensíveis. Evite erros de ortografia e gramática.
 
-3. **Títulos e Subtítulos:** Use títulos e subtítulos relevantes para organizar o conteúdo. Use `#` para títulos principais e `##` para subtítulos.
+4. **Títulos e Subtítulos:** Use títulos e subtítulos relevantes para organizar o conteúdo. Use `#` para títulos principais e `##` para subtítulos.
 
-4. **Links e Recursos:** Sempre que necessário, forneça links para recursos externos que possam complementar os resumos, como tutoriais, documentações, etc. Utilize a formatação `[Título](link)`.
+5. **Links e Recursos:** Sempre que necessário, forneça links para recursos externos que possam complementar os resumos, como tutoriais, documentações, etc. Utilize a formatação `[Título](link)`.
 
-5. **Exemplos de Código:** Se incluir exemplos de código, verifique se eles estão bem formatados e funcionais. Use blocos de código para destacar o código.
+6. **Exemplos de Código:** Se incluir exemplos de código, verifique se eles estão bem formatados e funcionais. Use blocos de código para destacar o código.
 
-6. **Citações e Fontes:** Se você estiver resumindo informações de fontes externas, coloque links para facilitar o acesso e busca por mais informações.
+7. **Citações e Fontes:** Se você estiver resumindo informações de fontes externas, coloque links para facilitar o acesso e busca por mais informações.
 
-7. **Clareza e Concisão:** Mantenha os resumos concisos e diretos. Evite informações irrelevantes e mantenha o foco no tópico estudado.
+8. **Clareza e Concisão:** Mantenha os resumos concisos e diretos. Evite informações irrelevantes e mantenha o foco no tópico estudado.
 
-8. **Divisão por Tópicos:** Separe os resumos por tópicos específicos para facilitar a navegação e a busca por informações.
+9. **Divisão por Tópicos:** Separe os resumos por tópicos específicos para facilitar a navegação e a busca por informações.
 
-9. **Uso de Listas:** Utilize listas (como essa) para enumerar regras, dicas ou itens importantes.
+10. **Uso de Listas:** Utilize listas (como essa) para enumerar regras, dicas ou itens importantes.
 
-10. **Utilize Links Internos:** Utilize `[[Arquivo interno]]` para facilitar o entendimento de conceitos mais complexos, sem perder o foco do tópico principal.
+11. **Utilize Links Internos:** Utilize `[[Arquivo interno]]` para facilitar o entendimento de conceitos mais complexos, sem perder o foco do tópico principal.
 
-11. **Mantenha o Índice Atualizado:** Mantenha o índice atualizado e em ordem para facilitar a busca e entendimento de conteúdos.
+12. **Mantenha o Índice Atualizado:** Mantenha o índice atualizado e em ordem para facilitar a busca e entendimento de conteúdos.
 
-12. **Atualização:** Caso atualize ou corrija algum resumo existente, indique claramente o que foi modificado e por quê.
+13. **Atualização:** Caso atualize ou corrija algum resumo existente, indique claramente o que foi modificado e por quê.
 
 Lembre-se de que a qualidade das anotações é fundamental para um estudo eficaz. Contribuições bem estruturadas ajudam a manter o seu Vault organizado e útil para referências futuras.
