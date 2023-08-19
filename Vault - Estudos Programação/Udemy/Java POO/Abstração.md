@@ -1,5 +1,5 @@
 
-**[[Abstração]]** é um conceito fundamental que visa simplificar a representação de objetos do mundo real em código. Ela permite que nos concentremos apenas nos aspectos relevantes de uma entidade, ocultando detalhes complexos e desnecessários. Em essência, a abstração é a criação de modelos que capturam a essência de um objeto, tornando mais fácil sua compreensão e manipulação.
+**Abstração** é um conceito fundamental que visa simplificar a representação de objetos do mundo real em código. Ela permite que nos concentremos apenas nos aspectos relevantes de uma entidade, ocultando detalhes complexos e desnecessários. Em essência, a abstração é a criação de modelos que capturam a essência de um objeto, tornando mais fácil sua compreensão e manipulação.
 
 ### Como Funciona?
 
