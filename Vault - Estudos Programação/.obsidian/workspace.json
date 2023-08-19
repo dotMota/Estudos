@@ -11,8 +11,13 @@
             "id": "65e3dd64b68b6f10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/Java POO/Arrays e Coleções.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Udemy/Java POO/Arrays e Coleções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Udemy/Java POO/Arrays e Coleções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Udemy/Java POO/Arrays e Coleções.md"
+              }
             }
           }
         ],
@@ -140,24 +149,26 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "8eb1c34b9d16238f",
+  "active": "65e3dd64b68b6f10",
   "lastOpenFiles": [
     "Udemy/Java POO/Índice Java POO.md",
-    "Udemy/Java POO/Classes, objetos e métodos em Java.md",
-    "Udemy/Java POO/Estruturas de controle de fluxo (if, switch, for, while).md",
+    "Udemy/Java POO/Arrays e Coleções.md",
     "Udemy/Java POO/Encapsulamento.md",
+    "Udemy/Java POO/Classes, objetos e métodos em Java.md",
+    "Udemy/Java POO/Operadores e Expressões.md",
+    "Udemy/Java POO/Historia do Java.md",
+    "Udemy/Java POO/Abstração.md",
+    "Descomplica/UI-UX/Atividade 01 (UI-UX).md",
+    "Descomplica/UI-UX/Atividade 02 (UI-UX).md",
     "Descomplica/JavaScript/Atividade 02 (JavaScript).md",
+    "Descomplica/JavaScript/Índice JavaScript.md",
+    "Udemy/Java POO/Estruturas de controle de fluxo (if, switch, for, while).md",
     "Udemy/Java POO/Tipos de dados Primitivos e Variáveis.md",
     "Descomplica/JavaScript/Declaração de Variáveis em javaScript.md",
-    "Descomplica/JavaScript/Índice JavaScript.md",
-    "Udemy/Java POO/Historia do Java.md",
     "Udemy/Java POO/Herança.md",
     "Udemy/Java POO/Pilares do POO.md",
-    "Udemy/Java POO/Abstração.md",
-    "Udemy/Java POO/Operadores e Expressões.md",
     "Udemy/Java POO/Polimorfismo.md",
     "Descomplica/JavaScript/Atividade 01 (JavaScript).md",
-    "Descomplica/UI-UX/Atividade 01 (UI-UX).md",
     "Descomplica/JavaScript/Comandos Básicos em JavaScript.md",
     "Descomplica/JavaScript/Criando e Manipulando Arrays em JavaScript.md",
     "Descomplica/JavaScript/JavaScript.md",
@@ -170,8 +181,6 @@
     "Udemy/Java POO",
     "Descomplica/HTML, CSS e Boostrap/Bootstrap.md",
     "Descomplica/HTML, CSS e Boostrap/HTML.md",
-    "Descomplica/HTML, CSS e Boostrap/CSS.md",
-    "Descomplica/HTML, CSS e Boostrap/Formulários.md",
     "Sem título.canvas",
     "Pasted image 20230810012714.png",
     "Descomplica/HTML, CSS e Boostrap",
