@@ -11,7 +11,7 @@
 11. [[Arrays e Coleções]]
 12. [[Manipulação de exceções]]
 13. [[Manipulando Arquivos e Diretórios]]
-14. [[Fonte e Créditos]]
+14. [[Udemy/Java POO/Fonte e Créditos|Fonte e Créditos]]
 
 ## Bonus:
 [[Ativando o GitHub Student Developer Pack]]

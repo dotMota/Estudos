@@ -3,4 +3,4 @@
 3. [[O que é o GitHub]]
 4. [[Instalação e Configuração Inicial do Git]]
 5. [[Essencial do Git]]
-6. 
+6. [[Udemy/Git e Github para iniciantes/Fonte e Créditos|Fonte e Créditos]]
