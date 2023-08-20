@@ -9,3 +9,10 @@
 9. [[Estruturas de controle de fluxo (if, switch, for, while)]]
 10. [[Classes, objetos e métodos em Java]]
 11. [[Arrays e Coleções]]
+12. [[Manipulação de exceções]]
+13. [[Manipulando Arquivos e Diretórios]]
+14. [[Fonte e Créditos]]
+
+## Bonus:
+[[Ativando o GitHub Student Developer Pack]]
+[[Instalação do Ambiente de Desenvolvimento IntelliJ IDEA Ultimate]]
