@@ -1,6 +1,6 @@
 1. [[JavaScript]]
 	1.1. [[Atividade 01 (JavaScript)]]
-2. [[Declaração de Variáveis em JavaScript]]
+2. [[Declaração de Variáveis em javaScript]]
 3. [[Comandos Básicos em JavaScript]]
 	3.1. [[Atividade 02 (JavaScript)]]
 4. [[Criando e Manipulando Arrays em JavaScript]]

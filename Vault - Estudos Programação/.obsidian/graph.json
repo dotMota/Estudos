@@ -1,51 +1,65 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:UI-UX",
-      "color": {
-        "a": 1,
-        "rgb": 14570208
-      }
-    },
-    {
-      "query": "path:JavaScript",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"HTML, CSS e Boostrap\"",
-      "color": {
-        "a": 1,
-        "rgb": 4456703
-      }
-    },
-    {
       "query": "path:\"Udemy/Java POO\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Udemy/Git e Github para iniciantes\"",
+      "color": {
+        "a": 1,
+        "rgb": 8388863
+      }
+    },
+    {
+      "query": "path:Tutoriais",
+      "color": {
+        "a": 1,
+        "rgb": 388865
+      }
+    },
+    {
+      "query": "path:\"Descomplica/Basic Front End/Desenvolvimento Front End\"",
+      "color": {
+        "a": 1,
+        "rgb": 34047
+      }
+    },
+    {
+      "query": "path:\"Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711888
+      }
+    },
+    {
+      "query": "path:\"Descomplica/Basic Front End/Experiência do Usuário\"",
+      "color": {
+        "a": 1,
+        "rgb": 65531
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.6359375,
-  "lineSizeMultiplier": 1.19739583333333,
-  "collapse-forces": false,
-  "centerStrength": 0.348958333333333,
-  "repelStrength": 11.1458333333333,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 9.58333333333333,
   "linkStrength": 1,
-  "linkDistance": 187,
-  "scale": 1.0000000000000377,
+  "linkDistance": 260,
+  "scale": 0.631604676290755,
   "close": true
 }

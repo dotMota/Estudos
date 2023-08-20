@@ -52,3 +52,9 @@ O GitHub Student Developer Pack é um recurso valioso para estudantes que deseja
 1. Lembre-se de que os detalhes e benefícios podem mudar com o tempo. Verifique a página do GitHub Student Developer Pack regularmente para ficar atualizado sobre as últimas ofertas disponíveis para estudantes.
 
 Parabéns! Agora você está pronto para aproveitar ao máximo o GitHub Student Developer Pack e todas as oportunidades que ele oferece para sua jornada de aprendizado e desenvolvimento.
+
+
+### Bonus:
+Não sabe usar o git? 
+Confira [[Índice Git e GitHub]]
+
