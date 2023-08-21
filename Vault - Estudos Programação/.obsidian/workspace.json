@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
+                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02e4b289b674258b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
+                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
+                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md"
+                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md"
               }
             }
           }
@@ -163,12 +176,21 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "7e099ee40bc7b1b0",
+  "active": "02e4b289b674258b",
   "lastOpenFiles": [
+    "Tutoriais/Instalação do Ambiente de Desenvolvimento Visual Studio Code para JavaScript.md",
+    "Tutoriais/Instalação do Ambiente de Desenvolvimento IntelliJ IDEA Ultimate.md",
+    "Tutoriais/Ativando o GitHub Student Developer Pack.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
+    "Tutorial.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/JavaScript.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Declaração de Variáveis em javaScript.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Criando e Manipulando Arrays em JavaScript.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Comandos Básicos em JavaScript.md",
+    "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
     "Tutoriais/Instalação e Configuração Inicial do Git.md",
     "Udemy/Git e Github para iniciantes/Fonte e Créditos.md",
     "Udemy/Git e Github para iniciantes/Funcionalidades Avançados do Git.md",
-    "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
     "Udemy/Git e Github para iniciantes/Historia do Git.md",
     "Udemy/Git e Github para iniciantes/Perigos do Uso do Rebase.md",
     "Udemy/Git e Github para iniciantes/Repositórios Remotos.md",
@@ -179,20 +201,11 @@
     "Udemy/Java POO/Fonte e Créditos.md",
     "Udemy/Java POO/Índice Java POO.md",
     "Udemy/Java POO/Pilares do POO.md",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/JavaScript.md",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
     "Descomplica/Basic Front End/Desenvolvimento Front End/Índice Desenvolvimento Front End.md",
     "Descomplica/Basic Front End/Desenvolvimento Front End/HTML.md",
     "Descomplica/Basic Front End/Desenvolvimento Front End/CSS.md",
-    "Descomplica/Basic Front End/Experiência do Usuário/Índice Experiência do Usuário.md",
     "Descomplica/Basic Front End",
-    "Tutoriais/Ativando o GitHub Student Developer Pack.md",
-    "Tutoriais/Instalação e Configuração do Visual Studio Enterprise.md",
-    "Descomplica/Basic Front End/Experiência do Usuário/Atividade 02 (UI-UX).md",
-    "Tutoriais/Instalação do Ambiente de Desenvolvimento IntelliJ IDEA Ultimate.md",
-    "Udemy/Java POO/Abstração.md",
     "Udemy/Git e Github para iniciantes",
-    "Ativando.md",
     "Pasted image 20230820051640.png",
     "Tutoriais",
     "Descomplica/Trilha JavaScript.canvas",
