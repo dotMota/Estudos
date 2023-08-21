@@ -5,5 +5,6 @@
 5. [[Essencial do Git]]
 6. [[Repositórios Remotos]]
 7. [[Branches, Merge e Rebase]]
-8. [[Funcionalidades Avançados do Git]]
-14. [[Udemy/Git e Github para iniciantes/Fonte e Créditos|Fonte e Créditos]]
+8. [[Perigos do Uso do Rebase]]
+9. [[Funcionalidades Avançados do Git]]
+10. [[Udemy/Git e Github para iniciantes/Fonte e Créditos|Fonte e Créditos]]
