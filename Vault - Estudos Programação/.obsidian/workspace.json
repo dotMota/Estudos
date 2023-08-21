@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2e5204a741481c",
+        "id": "837d8a25d6bc8221",
         "type": "tabs",
         "children": [
           {
-            "id": "c78be13b0725023c",
+            "id": "a1a83d1d055c8ffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy/Java POO/Fonte e Créditos.md",
+                "file": "Tutoriais/Instalação e Configuração Inicial do Git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "2f268333bdf8141f",
+            "id": "7e099ee40bc7b1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy/Java POO/Índice Java POO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0760016afaa9ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy/Git e Github para iniciantes/Fonte e Créditos.md",
+                "file": "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy/Git e Github para iniciantes/Fonte e Créditos.md",
+                "file": "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy/Git e Github para iniciantes/Fonte e Créditos.md",
+                "file": "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy/Git e Github para iniciantes/Fonte e Créditos.md"
+                "file": "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md"
               }
             }
           }
@@ -176,12 +163,21 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "f0760016afaa9ea6",
+  "active": "8eb1c34b9d16238f",
   "lastOpenFiles": [
-    "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
-    "Udemy/Java POO/Índice Java POO.md",
-    "Udemy/Java POO/Fonte e Créditos.md",
     "Udemy/Git e Github para iniciantes/Fonte e Créditos.md",
+    "Udemy/Git e Github para iniciantes/Funcionalidades Avançados do Git.md",
+    "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
+    "Udemy/Git e Github para iniciantes/Historia do Git.md",
+    "Udemy/Git e Github para iniciantes/Perigos do Uso do Rebase.md",
+    "Udemy/Git e Github para iniciantes/Repositórios Remotos.md",
+    "Udemy/Git e Github para iniciantes/Controle de Versão.md",
+    "Udemy/Git e Github para iniciantes/Branches, Merge e Rebase.md",
+    "Udemy/Git e Github para iniciantes/Essencial do Git.md",
+    "Udemy/Git e Github para iniciantes/O que é o GitHub.md",
+    "Tutoriais/Instalação e Configuração Inicial do Git.md",
+    "Udemy/Java POO/Fonte e Créditos.md",
+    "Udemy/Java POO/Índice Java POO.md",
     "Udemy/Java POO/Pilares do POO.md",
     "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/JavaScript.md",
     "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
@@ -190,12 +186,7 @@
     "Descomplica/Basic Front End/Desenvolvimento Front End/CSS.md",
     "Descomplica/Basic Front End/Experiência do Usuário/Índice Experiência do Usuário.md",
     "Descomplica/Basic Front End",
-    "Tutoriais/Instalação e Configuração Inicial do Git.md",
-    "Udemy/Git e Github para iniciantes/O que é o GitHub.md",
     "Tutoriais/Ativando o GitHub Student Developer Pack.md",
-    "Udemy/Git e Github para iniciantes/Controle de Versão.md",
-    "Udemy/Git e Github para iniciantes/Essencial do Git.md",
-    "Udemy/Git e Github para iniciantes/Historia do Git.md",
     "Tutoriais/Instalação e Configuração do Visual Studio Enterprise.md",
     "Descomplica/Basic Front End/Experiência do Usuário/Atividade 02 (UI-UX).md",
     "Tutoriais/Instalação do Ambiente de Desenvolvimento IntelliJ IDEA Ultimate.md",
@@ -203,11 +194,7 @@
     "Udemy/Git e Github para iniciantes",
     "Ativando.md",
     "Pasted image 20230820051640.png",
-    "Udemy/Java POO/Historia do Java.md",
     "Tutoriais",
-    "Udemy/Java POO/Herança.md",
-    "Udemy/Java POO/Tipos de dados Primitivos e Variáveis.md",
-    "Udemy/Java POO/Manipulando Arquivos e Diretórios.md",
     "Descomplica/Trilha JavaScript.canvas",
     "Descomplica",
     "Udemy",

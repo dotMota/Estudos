@@ -3,4 +3,7 @@
 3. [[O que é o GitHub]]
 4. [[Instalação e Configuração Inicial do Git]]
 5. [[Essencial do Git]]
-6. [[Udemy/Git e Github para iniciantes/Fonte e Créditos|Fonte e Créditos]]
+6. [[Repositórios Remotos]]
+7. [[Branches, Merge e Rebase]]
+8. [[Funcionalidades Avançados do Git]]
+14. [[Udemy/Git e Github para iniciantes/Fonte e Créditos|Fonte e Créditos]]
