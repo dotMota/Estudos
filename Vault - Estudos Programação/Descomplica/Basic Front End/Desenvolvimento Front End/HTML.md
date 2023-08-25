@@ -15,4 +15,4 @@ O HTML é a base fundamental das páginas da web, atuando como o esqueleto que s
 
 🔌 **Integração com Frameworks:** Além de ser usado de forma tradicional, o HTML também se integra perfeitamente com frameworks modernos, como [[Bootstrap]], React, Vue.js e Angular. Esses frameworks oferecem maneiras avançadas de construir aplicações web complexas, mantendo a base sólida do HTML.
 
-Em resumo, o HTML é como a estrutura de um edifício, definindo a base para adicionar estilo com [[CSS]], interatividade com [[JavaScript]] e até mesmo se integrar com poderosos frameworks para criar experiências web mais dinâmicas e eficientes. Entender o HTML é um passo crucial para qualquer aspirante a desenvolvedor web! 🏗️
+Em resumo, o HTML é como a estrutura de um edifício, definindo a base para adicionar estilo com [[CSS]], interatividade com [[Introdução ao JavaScript]] e até mesmo se integrar com poderosos frameworks para criar experiências web mais dinâmicas e eficientes. Entender o HTML é um passo crucial para qualquer aspirante a desenvolvedor web! 🏗️

@@ -35,4 +35,15 @@ console.log(contador);  // Saída: 0 (fora do escopo de bloco)
 
 // Usando const
 const pi = 3.14159;
-// pi = 3.14;  // Isso resultará em um erro, pois não é possível reatribuir uma constante
+// pi = 3.14;  // Isso resultará em um erro, pois não é possível reatribuir uma constante 
+```
+
+## **Nomes de variáveis JavaScript**
+
+Ao nomear suas variáveis em JavaScript, mantenha as seguintes regras em mente.
+
+- Não usar nenhuma das palavras-chave reservadas de JavaScript como um nome de variável. Por exemplo, os nomes das variáveis break ou Boolean não são válidos.
+
+-  Os nomes das variáveis JavaScript não devem começar com um numeral (0-9). Eles devem começar com uma letra ou um caractere de sublinhado. Por exemplo, `123test` é um nome de variável inválido, mas `_123test` é válido.
+
+-  Os nomes das variáveis JavaScript diferenciam maiúsculas de minúsculas. Por exemplo, `Nome` e `nome` são duas variáveis diferentes.
