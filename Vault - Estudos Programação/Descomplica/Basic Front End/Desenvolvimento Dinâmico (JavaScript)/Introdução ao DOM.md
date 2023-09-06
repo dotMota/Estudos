@@ -1,4 +1,4 @@
-O DOM (Document Object Model) é uma representação em forma de árvore da estrutura de um documento HTML ou XML. Ele permite que os desenvolvedores acessem, manipulem e interajam com os elementos e conteúdos de uma página da web por meio de linguagens de programação, como JavaScript. O DOM serve como uma ponte entre o conteúdo da página e os scripts que a controlam, permitindo uma interação dinâmica e personalizada.
+O DOM (Document Object Model) é uma representação em forma de árvore da estrutura de um documento [[HTML]] ou [[XML]]. Ele permite que os desenvolvedores acessem, manipulem e interajam com os elementos e conteúdos de uma página da web por meio de linguagens de programação, como JavaScript. O DOM serve como uma ponte entre o conteúdo da página e os scripts que a controlam, permitindo uma interação dinâmica e personalizada.
 
 ### Estrutura em Árvore
 

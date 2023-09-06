@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc0cacb0be99fa0",
+        "id": "8be487ea7169cb99",
         "type": "tabs",
         "children": [
           {
-            "id": "e3c73ee92735f1fb",
+            "id": "ce7f8c7064a4a51b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c90506bdf34473cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
+                "file": "Tutoriais/Instalação do Ambiente de Desenvolvimento Visual Studio Code para JavaScript.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,8 +153,26 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "e3c73ee92735f1fb",
+  "active": "ce7f8c7064a4a51b",
   "lastOpenFiles": [
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/JavaScript.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Instruções Condicionais.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Declaração de Variáveis em javaScript.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Dados Primitivos em JavaScript.md",
+    "Onebit Code/React Native/Indice React Native.md",
+    "Onebit Code/React Native/React Native.md",
+    "Onebit Code/React Native/Expo.md",
+    "Tutoriais/Instalação do Ambiente de Desenvolvimento Visual Studio Code para JavaScript.md",
+    "Onebit Code",
+    "Onebit Code/React Native",
+    "Buscar Dados da Web.md",
+    "Descomplica/Basic Front End/Desenvolvimento Front End/HTML.md",
+    "DOM.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Manipulando elementos do DOM.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Introdução ao DOM.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Métodos de Array.md",
+    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
+    "Indexação.md",
     "Tutoriais/Ativando o GitHub Student Developer Pack.md",
     "Udemy/Java POO/Índice Java POO.md",
     "Udemy/Java POO/Manipulação de exceções.md",
@@ -161,23 +183,7 @@
     "Udemy/Git e Github para iniciantes/O que é o GitHub.md",
     "Tutoriais/Instalação e Configuração Inicial do Git.md",
     "Udemy/Git e Github para iniciantes/Índice Git e GitHub.md",
-    "Udemy/Git e Github para iniciantes/Historia do Git.md",
-    "Udemy/Java POO/Exemplo de Polimorfismo Java.md",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Manipulando elementos do DOM.md",
-    "Udemy/Java POO/Exemplo de Encapsulamento Java.md",
-    "Udemy/Java POO/Exemplo de Abstração em Java.md",
-    "Base Programação Orientada a Objetos/Pilares do POO.md",
-    "Base Programação Orientada a Objetos/Abstração.md",
-    "Base Programação Orientada a Objetos/Polimorfismo.md",
-    "Base Programação Orientada a Objetos/Herança.md",
-    "Base Programação Orientada a Objetos/Encapsulamento.md",
-    "Udemy/Java POO/Classes, objetos e métodos em Java.md",
     "Base Programação Orientada a Objetos",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Índice Desenvolvimento Dinâmico (JavaScript).md",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Instruções Condicionais.md",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Introdução ao JavaScript.md",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Introdução ao DOM.md",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)/Interação com o Usuário.md",
     "Sem título.canvas",
     "Descomplica/Basic Front End",
     "Udemy/Git e Github para iniciantes",
@@ -188,8 +194,6 @@
     "Udemy",
     "Udemy/Java POO",
     "Pasted image 20230810012714.png",
-    "Descomplica/Basic Front End/Desenvolvimento Front End",
-    "Descomplica/Basic Front End/Desenvolvimento Dinâmico (JavaScript)",
-    "Descomplica/Basic Front End/Experiência do Usuário"
+    "Descomplica/Basic Front End/Desenvolvimento Front End"
   ]
 }

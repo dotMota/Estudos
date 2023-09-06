@@ -1,5 +1,5 @@
 1. [[Instalação do Ambiente de Desenvolvimento Visual Studio Code para JavaScript]]
-2. [[Introdução ao JavaScript]] 
+2. [[JavaScript]] 
 3. [[Declaração de Variáveis em javaScript]]
 4. [[Instruções Condicionais]]
 5. [[Dados Primitivos em JavaScript]]
@@ -11,7 +11,7 @@
 11. [[Introdução ao DOM]]
 12. [[Interação com o Usuário]]
 13. [[Manipulando elementos do DOM]]
-
+ 
 [[Introdução Escopo de Variáveis]]
 [[Requisições HTTP com a Fetch API]]
 [[Tratamento de Erros]]

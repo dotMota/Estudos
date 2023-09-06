@@ -10,6 +10,6 @@ Com o JavaScript, podemos:
 
 📝 **Validar Formulários:** Verificar se os dados inseridos em formulários estão corretos antes de serem enviados, evitando erros.
 
-🌐 **[[Buscar Dados da Web]]:** Trazer informações atuais, como previsão do tempo ou notícias, para exibir nas páginas.
+🌐 **Buscar Dados da Web:** Trazer informações atuais, como previsão do tempo ou notícias, para exibir nas páginas.
 
 Resumindo, o JavaScript é como a faísca que dá vida à internet, tornando a experiência do usuário mais interessante e dinâmica. 👩‍💻 Para começar a explorar esse mundo, é útil ter uma base de [[HTML]] e [[CSS]], outras ferramentas importantes no kit de desenvolvimento web. 🎉

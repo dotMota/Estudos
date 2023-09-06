@@ -10,4 +10,4 @@ Principais pontos sobre o CSS:
 
 🌈 **[[Animações e Transições]]:** Podemos criar animações suaves e transições elegantes, tornando a experiência do usuário mais envolvente.
 
-Em resumo, o CSS é como o toque artístico que transforma uma página [[HTML]] em uma obra-prima visual. Combinado com HTML e [[Introdução ao JavaScript]], ele é essencial para criar sites esteticamente agradáveis e funcionais! 🎉
+Em resumo, o CSS é como o toque artístico que transforma uma página [[HTML]] em uma obra-prima visual. Combinado com HTML e [[JavaScript]], ele é essencial para criar sites esteticamente agradáveis e funcionais! 🎉
